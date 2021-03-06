@@ -1,5 +1,10 @@
-### Me in social networks 
-<img src='https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif' /> :
+![](Vanilla-3.3s-289px.gif)
+
+
+### Me in social networks :
+
+
+<img src='https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif' /> 
 
 
 
