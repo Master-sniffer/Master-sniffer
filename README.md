@@ -71,3 +71,7 @@
 [PWSH]: https://en.wikipedia.org/wiki/PowerShell
 [VM]: https://www.virtualbox.org
 
+
+
+## See ya Out There... 
+![](https://media1.giphy.com/media/3o7buhUyOZDo2T2oco/giphy.gif?cid=ecf05e47l65fnnte14hmbj5ql92yqiwwcoiytl350gdga7uk&rid=giphy.gif)
