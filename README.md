@@ -18,7 +18,7 @@
 
 [<img align="center" alt="https://vk.com/masster_sniffer" width="90px" src="https://pngicon.ru/file/uploads/vk.png" />][website]&nbsp;
 [<img align="center" alt="https://www.hackerrank.com/dsolodennikov?hr_r=1" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" />][hackrank]&nbsp;
-[<img align="center" alt="https://www.codewars.com/users/Master-sniffer" width="90px" src="https://www.codewars.com/assets/logos/logo-square-red-big-dark-text-2e091298050b4a55869eb3c7d02e5cd21561b042f7692401fd9e3a2409078c39.png" />][kata]&nbsp;
+[<img align="center" alt="https://www.codewars.com/users/Master-sniffer" width="90px" src="https://blog.codewars.com/logo.png?h=cbc5fc2fb90154f31e3eb4ed3d3d572d497fa0522469e8f186562c4365b43db2" />][kata]&nbsp;
 [<img align="center" alt="https://mastersniffer.bandcamp.com/releases" width="90px" src="https://i.pinimg.com/originals/fd/f9/2a/fdf92ade7b132f2f3a5b55e68fdfbf54.png" />][BC]&nbsp;
 
 
