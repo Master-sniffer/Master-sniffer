@@ -16,7 +16,7 @@
 
 ### Me in social networks :
 
-[<img align="center" alt="https://vk.com/masster_sniffer" width="90px" src="https://pngicon.ru/file/uploads/vk.png" />][website]&nbsp;
+[<img align="center" alt="https://t.me/Master_sniffer" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png" />][website]&nbsp;
 [<img align="center" alt="https://www.hackerrank.com/dsolodennikov?hr_r=1" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" />][hackrank]&nbsp;
 [<img align="center" alt="https://www.codewars.com/users/Master-sniffer" width="90px" src="https://blog.codewars.com/logo.png?h=cbc5fc2fb90154f31e3eb4ed3d3d572d497fa0522469e8f186562c4365b43db2" />][kata]&nbsp;
 [<img align="center" alt="https://mastersniffer.bandcamp.com/releases" width="90px" src="https://i.pinimg.com/originals/fd/f9/2a/fdf92ade7b132f2f3a5b55e68fdfbf54.png" />][BC]&nbsp;
@@ -61,7 +61,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Master-sniffer&hide=html&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]: https://vk.com/masster_sniffer
+[website]: https://t.me/Master_sniffer
 [hackrank]: https://www.hackerrank.com/dsolodennikov
 [kata]: https://www.codewars.com/users/Master-sniffer
 [BC]: https://mastersniffer.bandcamp.com/releases
