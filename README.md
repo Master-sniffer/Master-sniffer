@@ -1,6 +1,11 @@
 ![](Vanilla-3.3s-289px.gif)
 
 # Hello Stranger ! 🤙
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Master-sniffer" alt="https://github.com/Master-sniffer" />
+</p>
+
 #### Here is some info about me !
 - Geek that does everything for everybody 👾
 - 🖥 Currently studying and learning some new stuff connected to data analysis and not only ! 👨‍💻 
@@ -10,9 +15,20 @@
 
 <br />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Master-sniffer" alt="https://github.com/Master-sniffer" />
-</p>
+## My stats
+
+<p>
+  <a href="https://github.com/Master-sniffer/Master-sniffer" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Master-sniffer&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+  </a>
+  <a href="https://github.com/Master-sniffer/Master-sniffer" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Master-sniffer&show_icons=true&theme=onedark&count_private=true" alt="Master-sniffer's GitHub Stats" height="180px"/>
+  </a>
+ </p>
+ <p>
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=c-spider&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+ </p>
 
 ### Me in social networks :
 
@@ -51,9 +67,6 @@
 
 ### My GitHub Stats
 <br />
-<br />
-
-&nbsp;[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Master-sniffer&show_icons=true&theme=onedark&count_private=true )](https://github.com/Master-sniffer/github-readme-stats)
 <br />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Master-sniffer&theme=synthwave&hide_border=true)](https://github.com/Master-sniffer/github-readme-streak-stats) 
