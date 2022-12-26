@@ -38,7 +38,7 @@
 [<img align="center" alt="https://www.kaggle.com/mastersniffer" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png?20140912155123" />][kaggle]&nbsp;
 [<img align="center" alt="https://www.hackerrank.com/dsolodennikov?hr_r=1" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" />][hackrank]&nbsp;
 [<img align="center" alt="https://www.codewars.com/users/Master-sniffer" width="90px" src="https://blog.codewars.com/logo.png?h=cbc5fc2fb90154f31e3eb4ed3d3d572d497fa0522469e8f186562c4365b43db2" />][kata]&nbsp;
-[<img align="center" alt="https://mastersniffer.bandcamp.com/releases" width="90px" src="https://i.pinimg.com/originals/fd/f9/2a/fdf92ade7b132f2f3a5b55e68fdfbf54.png" />][BC]&nbsp;
+[<img align="center" alt="https://mastersniffer.bandcamp.com/releases" width="90px" src="https://cdn.myportfolio.com/d7ee1b49-3469-4704-82c9-43b74006450a/6ce1f970-20dd-4f83-a34c-04bf79d4e276_car_4x3.png?h=207d523dd032cb377999bcf495c67e41" />][BC]&nbsp;
 
 
 <br />
